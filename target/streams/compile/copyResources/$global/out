@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(B:\play\todolist\conf\application.conf,B:\play\todolist\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(B:\play\todolist\conf\evolutions,B:\play\todolist\target\scala-2.10\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(B:\play\todolist\conf\routes,B:\play\todolist\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(B:\play\todolist\conf\evolutions\default,B:\play\todolist\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(B:\play\todolist\conf\evolutions\default\1.sql,B:\play\todolist\target\scala-2.10\classes\evolutions\default\1.sql)[0m
