@@ -18,6 +18,9 @@ import play.libs.F.*;
 import static play.test.Helpers.*;
 import static org.fest.assertions.Assertions.*;
 
+import play.data.Form;
+import models.Task;
+
 
 /**
 *
@@ -32,13 +35,14 @@ public class ApplicationTest {
         int a = 1 + 1;
         assertThat(a).isEqualTo(2);
     }
-
+/*
     @Test
     public void renderTemplate() {
-        Content html = views.html.index.render("Your new application is ready.");
+      Form<Task> taskForm = Form.form(Task.class);
+        Content html = views.html.index.render(Task.all(), taskForm);
         assertThat(contentType(html)).isEqualTo("text/html");
         assertThat(contentAsString(html)).contains("Your new application is ready.");
     }
-
+*/
 
 }
