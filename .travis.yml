@@ -7,5 +7,5 @@ before_script:
 script: play-${PLAY_VERSION}/play test
 deploy:
   provider: heroku
-  app: bagelnet-todolist
-  api_key: WKlotArlNllb6j/hxYm6gMg6TFhoUPIB5cimc9/KWRcUy/FxPbWz4VyxlOXCazWFU+6fGPviTSOPP2gtJveAVEJzd7PDEIb5Zn+0PkBwgCTNZIglo4pQs9CmIr7hdnbimGD+4lANc8676/rtCSqsAZvbWHND6f1hbJs7J0L7j+I=
+  app: bagelnet-todolist3
+  api_key: oBHEwB8lYNHVeiAY4EYEDxDmzvx5jpejkB4rGx9XAshasUKmINU7ewfbtlu+PxZtkUneWgVpUcIaBZeoThxYiaC97iiZkZJO6KcyV1Yfs3goReRk49wf8wLE9ZBIVOFf0pOrVtNqFcCGORQAOc4Y/L0QVPg8MJu8MIulzu9YHys=
