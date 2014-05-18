@@ -8,5 +8,4 @@ script: play-${PLAY_VERSION}/play test
 deploy:
   provider: heroku
   app: bagelnet-todolist
-  api_key:
-   - secure: CO9B+sgps/3sZy8Q6F0FhIV4zYXkrCDBDs71py2dgvvE0Js3jJ6FdqioFks2OKjCtgUBoCwL7/zlJYGJeISHOCDlqKl+Bzjng5euQOCOfSLSoLx6xNU5V+mcc+pMqVlbuEQHKPOp249K3QWwExyc3qMasC6SiYN4s4yIbZTiGjw=
+  api_key: CO9B+sgps/3sZy8Q6F0FhIV4zYXkrCDBDs71py2dgvvE0Js3jJ6FdqioFks2OKjCtgUBoCwL7/zlJYGJeISHOCDlqKl+Bzjng5euQOCOfSLSoLx6xNU5V+mcc+pMqVlbuEQHKPOp249K3QWwExyc3qMasC6SiYN4s4yIbZTiGjw=
