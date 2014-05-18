@@ -7,7 +7,7 @@ before_script:
 script: play-${PLAY_VERSION}/play test
 
 deploy:
-  provider:heroku
-  app:bagelnet-todolist
+  provider: heroku
+  app: bagelnet-todolist
   api_key:
     secure: LVL6DKsHaolpOhLTrw8tZALvBGospvf7HcD5QhPv5AYOetanhLMWFhxkFKkt8+7gFP89kQI1FKnpE3BFufPXrYfSUJgtH7hOK3f/3nwvJWmOwihu+h22yqeQDmH41R7ZD/+06kFHR+qMg60ADG6AUrVLuJvT9xQtaxpSvogjApI=
